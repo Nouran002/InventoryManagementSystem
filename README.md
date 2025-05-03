@@ -7,14 +7,12 @@ This Inventory Management System is a web-based application designed to help bus
 
 ## Features
 
-- **Task Management:**
-  - Create Task.
-  - Delete Task.
-  - Update Task.
-  - Show Task Details.
-  - Get All Tasks.
-  - Filter Task By Perority, and Status.
-  - Search About Task.
+- **Product Management:**
+  - Create Product.
+  - Delete Product.
+  - Update Product.
+  - Show Product Details.
+  - Get All Products.
   
 
 - **User Management:**
