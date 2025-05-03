@@ -1,0 +1,190 @@
+C:\Users\OsmanAli\source\repos\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.deps.json
+C:\Users\OsmanAli\source\repos\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.dll
+C:\Users\OsmanAli\source\repos\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.pdb
+C:\Users\OsmanAli\source\repos\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OsmanAli\source\repos\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.AssemblyInfoInputs.cache
+C:\Users\OsmanAli\source\repos\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.AssemblyInfo.cs
+C:\Users\OsmanAli\source\repos\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.csproj.CoreCompileInputs.cache
+C:\Users\OsmanAli\source\repos\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.dll
+C:\Users\OsmanAli\source\repos\Inventory.Api\Inventory.BL\obj\Debug\net8.0\refint\Inventory.BL.dll
+C:\Users\OsmanAli\source\repos\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.pdb
+C:\Users\OsmanAli\source\repos\Inventory.Api\Inventory.BL\obj\Debug\net8.0\ref\Inventory.BL.dll
+C:\Users\Nouran\Downloads\Inventory.Api\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.deps.json
+C:\Users\Nouran\Downloads\Inventory.Api\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.runtimeconfig.json
+C:\Users\Nouran\Downloads\Inventory.Api\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.dll
+C:\Users\Nouran\Downloads\Inventory.Api\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.pdb
+C:\Users\Nouran\Downloads\Inventory.Api\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.csproj.AssemblyReference.cache
+C:\Users\Nouran\Downloads\Inventory.Api\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nouran\Downloads\Inventory.Api\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.AssemblyInfoInputs.cache
+C:\Users\Nouran\Downloads\Inventory.Api\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.AssemblyInfo.cs
+C:\Users\Nouran\Downloads\Inventory.Api\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.csproj.CoreCompileInputs.cache
+C:\Users\Nouran\Downloads\Inventory.Api\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.dll
+C:\Users\Nouran\Downloads\Inventory.Api\Inventory.Api\Inventory.BL\obj\Debug\net8.0\refint\Inventory.BL.dll
+C:\Users\Nouran\Downloads\Inventory.Api\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.pdb
+C:\Users\Nouran\Downloads\Inventory.Api\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.genruntimeconfig.cache
+C:\Users\Nouran\Downloads\Inventory.Api\Inventory.Api\Inventory.BL\obj\Debug\net8.0\ref\Inventory.BL.dll
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.deps.json
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.runtimeconfig.json
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.dll
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.pdb
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.csproj.AssemblyReference.cache
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.AssemblyInfoInputs.cache
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.AssemblyInfo.cs
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.csproj.CoreCompileInputs.cache
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.dll
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\refint\Inventory.BL.dll
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.pdb
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.genruntimeconfig.cache
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\ref\Inventory.BL.dll
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\OsmanAli\Downloads\Inventory.Api (1)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\OFL.txt
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\OFL.txt
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.deps.json
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.runtimeconfig.json
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.dll
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.pdb
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.csproj.AssemblyReference.cache
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.AssemblyInfoInputs.cache
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.AssemblyInfo.cs
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.csproj.CoreCompileInputs.cache
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.dll
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\refint\Inventory.BL.dll
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.pdb
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.genruntimeconfig.cache
+C:\Users\Nouran\Downloads\Inventory.Api(Version2)\Inventory.Api(Version2)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\ref\Inventory.BL.dll
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\OFL.txt
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.deps.json
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.runtimeconfig.json
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.dll
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.pdb
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.csproj.AssemblyReference.cache
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.AssemblyInfoInputs.cache
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.AssemblyInfo.cs
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.csproj.CoreCompileInputs.cache
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.dll
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\refint\Inventory.BL.dll
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.pdb
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.genruntimeconfig.cache
+C:\Users\OsmanAli\Downloads\version(3)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\ref\Inventory.BL.dll
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\OFL.txt
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.deps.json
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.runtimeconfig.json
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.dll
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.pdb
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.csproj.AssemblyReference.cache
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.AssemblyInfoInputs.cache
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.AssemblyInfo.cs
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.csproj.CoreCompileInputs.cache
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.dll
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\refint\Inventory.BL.dll
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.pdb
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.genruntimeconfig.cache
+C:\Users\OsmanAli\Downloads\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\ref\Inventory.BL.dll
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\LatoFont\OFL.txt
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.deps.json
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.runtimeconfig.json
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.dll
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\bin\Debug\net8.0\Inventory.BL.pdb
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.csproj.AssemblyReference.cache
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.AssemblyInfoInputs.cache
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.AssemblyInfo.cs
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.csproj.CoreCompileInputs.cache
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.dll
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\refint\Inventory.BL.dll
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.pdb
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\Inventory.BL.genruntimeconfig.cache
+C:\Users\Nouran\Downloads\version(4)\version(4)\Inventory.Api\Inventory.BL\obj\Debug\net8.0\ref\Inventory.BL.dll
