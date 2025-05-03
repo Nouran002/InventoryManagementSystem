@@ -15,12 +15,13 @@ This Inventory Management System is a web-based application designed to help bus
   - Get All Products.
   
 
-- **User Management:**
-  - Basic structure for managing users and roles (Admin, TeamLead, RegularUser).
-  - Login & Register with its validation.
-  - Authentication and authorization for users using jwt.
-  - Manage all users by admin
-  - Add Team By admin
+- **Warehouse Management:**
+  - Add Warehouse.
+  - Delete warehouse.
+  - Update Warehouse.
+  - Get All Warehouses With Its Products
+  - Assign products to warehouses.
+  - Track product quantity per warehouse.
   
 
 - **Dockerizing My Application**
