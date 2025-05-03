@@ -33,9 +33,14 @@ This Inventory Management System is a web-based application designed to help bus
 - **Making a reporting**
   - List products below their LowStockThreshold.
   - Dawnload List products below their LowStockThreshold As Pdf.
-  - 	Transaction History: Retrieve transaction history for a specific product or time period
+  - Transaction History: Retrieve transaction history for a specific product or time period
 
-
+- **Other Features**
+  - Schedule a background job that runs daily to check for low-stock products and logs a notification(Using Hangfire).
+  - Implemented rate-limiting or throttling on report endpoints to prevent abusef.
+- **Architectural patterns:**
+  - Using Clean Architecture 3-Tier Architecture & Repository Pattern
+  
 
 
 
