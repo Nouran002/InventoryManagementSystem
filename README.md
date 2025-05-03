@@ -24,14 +24,16 @@ This Inventory Management System is a web-based application designed to help bus
   - Track product quantity per warehouse.
   
 
-- **Dockerizing My Application**
-  - Add docker file to my app to make it dockerized.
+- **Inventory Transactions:**
+  - Add Stock: Increase the quantity of a specific product.
+  - Remove Stock: Decrease the quantity of a specific product.
+  - Transfer Stock: Transfer stock between warehouses
 
-- **Comments and Attachments:**
-  - Add comments for a specefic task.
-  - Add attatchments for a specefic task.
-- **Architectural patterns:**
-  - Using unit of work and repository pattern
+
+- **Making a reporting**
+  - List products below their LowStockThreshold.
+  - Dawnload List products below their LowStockThreshold As Pdf.
+  - 	Transaction History: Retrieve transaction history for a specific product or time period
 
 
 
