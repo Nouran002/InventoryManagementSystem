@@ -1,9 +1,9 @@
 
-# Task Management System
+# Inventory Management System
 
 ## Overview
 
-This Task Management System is a web-based application designed to help teams organize and manage their tasks effectively. The system provides functionalities to create, update, delete, and view tasks, along with basic user role management. The project is built using ASP.NET Core and Entity Framework for the backend, and HTML, CSS, JavaScript, and jQuery for the frontend.
+This Inventory Management System is a web-based application designed to help businesses efficiently manage and track their products, stock levels, and warehouse operations. It allows users to add, update, delete, and view products and stock movements across multiple warehouses. The system is built using ASP.NET Core and Entity Framework Core for the backend, and provides secure APIs that can be consumed by any frontend.
 
 ## Features
 
